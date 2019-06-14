@@ -1,0 +1,2 @@
+# repoConfig
+spring cloud config
